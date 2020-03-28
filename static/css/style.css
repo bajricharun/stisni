@@ -102,7 +102,7 @@ input[type="checkbox"]:checked ~ div.curtain-panel-right {
 @media only screen and (max-width: 768px) {
   .curtain-panel-left p {
     font-size: 31.855px;
-    text-align: center;
+    text-align: left;
     position: absolute;
     top: 35%;
   }
@@ -110,7 +110,7 @@ input[type="checkbox"]:checked ~ div.curtain-panel-right {
   .curtain-panel-right p {
     position: absolute;
     font-size: 31.855px;
-    text-align: center;
+    text-align: left;
     top: 35%;
   }
   #prize p {
